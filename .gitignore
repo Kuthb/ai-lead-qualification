@@ -1,0 +1,5 @@
+# Ignore the output folder (generated files)
+output/
+
+# Ignore any local environment files that might have secrets
+.env
