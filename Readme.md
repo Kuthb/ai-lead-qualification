@@ -1,7 +1,3 @@
-## Demo Video 🎥
-
-Watch the demo video of the AI Lead Qualification Automation system here:  
-[Demo Video on Google Drive](https://drive.google.com/file/d/1Gt_YvaD6boPFL_2DzJVtImDuZoTMs2aU/view?usp=sharing)
 
 # AI-Powered Lead Qualification Automation
 
